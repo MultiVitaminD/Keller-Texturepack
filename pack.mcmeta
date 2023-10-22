@@ -1,0 +1,15 @@
+{
+   "pack": {
+      "pack_format": 15,
+      "supported_formats": [15,16,17,18],
+      "description": "Made by §aStefanJ2_              §bbettervanillabuilding.com"
+	},
+  "overlays": {
+    "entries": [
+      {
+        "formats": [16,17,18],
+        "directory": "gui1202"
+      }
+    ]
+  }
+}
